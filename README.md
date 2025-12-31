@@ -3,7 +3,7 @@
 Sistema web desenvolvido em Laravel para gerenciamento de equipes, usuários e organização de dados internos.
 Este projeto foi criado como parte do processo de aprendizado da matéria de Laravel na faculdade e prática em desenvolvimento web no geral, focando em backend, banco de dados e estrutura MVC.
 
-Mateus Oliveira e Rafaela Schneider
+por: Mateus Oliveira e Rafaela Schneider
 ---
 
 ## 🚀 Tecnologias usadas
